@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "56075f629bc3915e1bfa876d175df67e1a7cbe3c",
+          "version": "5.13.2"
+        }
+      },
+      {
+        "package": "SwiftDux",
+        "repositoryURL": "https://github.com/StevenLambion/SwiftDux",
+        "state": {
+          "branch": null,
+          "revision": "3af68b496cde9187bae280606f9a6ad2a148bddb",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
